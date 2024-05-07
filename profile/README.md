@@ -7,8 +7,8 @@ Hi! **Shelf Share** is an online platform aimed at facilitating individuals who 
 
 |        ID        | Nama                          | Learning Path             | 
 |----------------|-------------------------------|-----------------------------|
-|2110631170001|Alifia Nurhasanah          |UI/UX Design          |
-|2110631170004|Aldiva Zahra Salifa          | UI/UX Design            |
-|2110631170043 |Achmad Fikri Syofian |FrontEnd/BackEnd Development|
-|2110631170110 |Taufik Faturokhman |FrontEnd/BackEnd Development|
+|`2110631170001`|Alifia Nurhasanah          |UI/UX Design          |
+|`2110631170004`|Aldiva Zahra Salifa          | UI/UX Design            |
+|`2110631170043` |Achmad Fikri Syofian |FrontEnd/BackEnd Development|
+|`2110631170110` |Taufik Faturokhman |FrontEnd/BackEnd Development|
 
