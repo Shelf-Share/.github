@@ -5,7 +5,7 @@ Hi! **Shelf Share** is an online platform aimed at facilitating individuals who 
 ## Our Team Member
 
 
-|        ID        | Nama                          | Learning Path             | 
+|        ID        | Nama                          | Role| 
 |----------------|-------------------------------|-----------------------------|
 |`2110631170001`|Alifia Nurhasanah          |UI/UX Design          |
 |`2110631170042`|Zahra Aurira Hanifah          | UI/UX Design            |
