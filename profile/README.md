@@ -9,6 +9,6 @@ Hi! **Shelf Share** is an online platform aimed at facilitating individuals who 
 |----------------|-------------------------------|-----------------------------|
 |`2110631170001`|Alifia Nurhasanah          |UI/UX Design          |
 |`2110631170042`|Zahra Aurira Hanifah          | UI/UX Design            |
-|`2110631170043` |Achmad Fikri Syofian |FrontEnd/BackEnd Development|
-|`2110631170110` |Taufik Faturokhman |FrontEnd/BackEnd Development|
+|`2110631170043` |Achmad Fikri Syofian |Fullstack Developer|
+|`2110631170110` |Taufik Faturokhman |Fullstack Developer|
 
